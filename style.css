@@ -1,0 +1,29 @@
+body 
+{
+    background-color: rgb(6, 3, 34);
+    color: #fff;
+    font-family: sans-serif;
+}
+
+h1, h2, h3
+{
+    border-bottom: 1px solid rgb(229, 169, 16);
+}
+
+a 
+{
+    text-decoration: none;
+    color: #fff;
+    cursor: pointer;
+}
+
+a:hover
+{
+    text-decoration: none;
+    color: rgb(229, 169, 16);
+}
+
+img 
+{
+    border-radius: 2px;
+}
